@@ -1,5 +1,4 @@
-Program creates png series of game of life, that could be easy turned to gif animation
-Program requires libpng
+Program creates png series of game of life, that could be easy turned to gif animation, requires libpng
 
 1) create gamein.png file with black background and white pixels, could be any size
 2) run the code
